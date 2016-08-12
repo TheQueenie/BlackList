@@ -1,0 +1,778 @@
+Yegor Antonov | Неадекват | Оранжевый
+Eazy Roux | Неадекват | Оранжевый
+Alvaro Mourinho | Неадекват | Оранжевый
+Volodya Marseilla | Неадекват | Оранжевый
+Norman North | Флуд в /f | Оранжевый
+Haruma Akanashi | Неадекват в /r | Оранжевый
+Markus Menendez | подделка документов | Черный
+Igor Volodin | Неадекват в /r | Оранжевый
+Tony Almedia | Неадекват в /f | Оранжевый
+Dmitriy Price | Прогул | Зеленый
+Doc News | Неадекватное поведение | Оранжевый
+Leo Carrasco | Флуд в /f | Оранжевый
+Ash Tsatryan | Флуд в /f | Оранжевый
+Brian Munez | кража ТС | Зеленый
+Vanya Yurinov | Кража ТС | Зеленый
+Artem Yakunin | Жёсткий флуд в /f об увольнении | Оранжевый
+Tom Rav | Покушение на президента | Черный
+Anton Beloff | Неадекватное поведениe | Оранжевый
+Jason McLaren | Оск. Мэра | Черный
+Black Cactus | Отказ выплаты неустойки | Зеленый
+Erzhan Tomasino | Отказ выплаты неустойки | Зеленый
+Takeda Majiwara | отказ выплаты неустойки | Зеленый
+Oleg Casey | Отказ выпоаты неустойки | Зеленый
+Jimmy Ray | Кража ТС | Зеленый
+Johny Braith | Попытка подкупа Мэра | Красный
+Bazzy Homeless | Flood | Оранжевый
+James Lopez | Flood | Оранжевый
+Trevor Fosters | Оск. Мэра | Красный
+Tom Boneti | Флуд | оранжевый
+Antonio Wainer | Отказ выплаты неустойки | зеленый
+Alexey Abolonin | Нарушение устава | Зеленый
+Dima Marricone | Оск. Мэра | Красный
+Kirill Avdeev | Оск.Президента | Красный
+Tim Show | Кража ТС | Зеленый
+Cesare Cuadriccelli | отказ выплаты неустйоки | Зеленый
+Serega Diakonov | отказ выплаты неустойки | Зеленый
+Manuel Shooter | Лив после принятия | Зеленый
+Vladimir Klinskikh | Не прохождение стажировки Советника | Оранжевый
+Leslie Richardson | Неадекватватное поведение | Оранжевый
+Rey Hardy | подделка документов | Красный
+Steven Elgano | Отказ выплаты неустойки | Зеленый
+Bennett Cook | Неадекват | Оранжевый
+Mike Stuart | Непрохождение стажировки Советника | Оранжевый
+Danny Muller | Флуд в /r перед увольнением | Оранжевый
+Alexey Demidov | Прогул | Зеленый
+Frank Watts | нападение на Президента | Черный
+Ronaldo Lacoste | Прогул | Зеленый
+Leonardo Montello | Подделка документов | Черный
+Lorenzo Montello | Заблачен | зеленый код
+Flavor Side | оскорбление Президента | Черный
+Ivan Gradov | Флуд /r | Оранжевый
+James Lord | Отказ выплаты неустойки | зеленый
+Justin Morrison | Флуд | Оранжевый
+Ham Ohanyan | Флуд /f | Оранжевый
+Mirash Karleone | Кража скринов | Красный
+Vito Clitons | Кража скринов | Красный
+Arthur Deppay | Подделка скриншотов на форуме | Красный
+Nika Senet | Кража скринов | Красный
+Rudy Stafford | Кража отчета | Красный
+Mario Fedorov | Кража отчета | Красный
+Toha Bart | отказ выплаты неустойки | Зеленый
+Miha Triger | Кража ТС | Зеленый
+Jake Castro | Flood /f | Оранжевый
+Manato Hattori | Flood /f | Оранжевый
+Jony Fresh | Flood /f | Оранжевый
+Petya Dyukin | Прогул | зеленый
+Jack Peterson | Flood /f | Оранжевый
+Jessica Lioness | Flood /f | Оранжевый
+Maksim Maloy | Покушение на Мэра | Черный
+Steven Willson | Неадекват /r | Оранжевый
+Jon Brook | flood /r | Оранжевый
+Adam Thomos | Flood /f | Оранжевый
+Vlad Maker | Flood /f | Оранжевый
+Alex Loco | Flood /f | Оранжевый
+Lil Dogs | Flood /f | Оранжевый
+Gerlen Mairon | Flood /f | Оранжевый
+Markus Townsend | Flood | Оранжевый
+Ruslan Chelpan | Flood | Оранжевый
+Dante Frigerio | оскорбление Президента | Черный
+John Pearce | Flood | Оранжевый
+Jonathan Lawrence | Отказ выплаты неустйоки | Зеленый
+Luigi Moore | Flood | Оранжевый
+Trevor Carter | Покушение на Вице-президента | Черный
+Gonzalo Martinez | Обман | Оранжевый
+Feliks Walker | Кража ТС | Зеленый
+Jony Simson | Рынок | Зеленый
+Leonardo Corti | Flood /f | Оранжевый
+Nikita Kuck | Flood /r | Оранжевый
+Hailey Lombardi | Flood | Оранжевый
+Felix Vegas | отказ выплаты неустойки | Зеленый
+Federico Fazquez | Flood | Оранжевый
+Sergej Serbin | Flood | Оранжевый
+Andreika Lipinko | Flood /f | Оранжевый
+James Gorg | Бред /f | Оранжевый
+Daniel Goodman | Неадекватное поведение | Оранжевый
+Ilya Zajczew | Неадекват | Оранжевый
+Touch Grey | Оск.полиции | Зеленый
+Darwin Wilson | Flood /f | Оранжевый
+Harry Walker | Флуд | Оранжевый
+Ivan Kotkov | Flood | Оранжевый
+Nikita Bran | Flood | Оранжевый
+Martin Cook | покушение на Министра Внутренних дел | Красный
+Sergey Loyatti | Обман мэра, попрашайничество | Красный
+Brain Cook | покушения на Президента | Красный
+Dmitriy Morozov | покушения на Президента | Красный
+Bruno Jones | покушения на Президента | Красный
+Share Face | покушения на Президента | Красный
+Diego Rodgard | Покушение на Президента | Красный
+Kenny Source | Покушение на Президента | Красный
+Gaspar Gonzalez | Покушение на Президента | Красный
+Oscar Clemente | Покушение на Президента | Красный
+Sergei Nazarov | Покушение на Президента | Красный
+Sweez Mackelly | Покушение на Президента | Красный
+Chipollino Conzales | Покушение на Президента | Красный
+John Figo | Покушение на Президента | Красный
+Senya Savvin | Покушение на Президента | Красный
+Wiliam Hopkins | Покушение на Президента | Красный
+Dwayne Amr | Покушение на Президента | Красный
+Steven Wright | Покушение на Президента | Красный
+Pharel McKeim | Покушение на Президента | Красный
+Kenny Source | Покушение на Президента | Красный
+Alex Cameron | Покушение на Президента | Красный
+Ayan Rock | Покушение на мэра | Красный
+Gaspar Espositos | Неоднократное покушение на Президента | Красный
+Giuseppe Espositos | Неоднократное покушение на Президента | Красный
+Dima Zamula | Прогул раб. дня, взятие транспорта, уход от наказания | Красный
+Jack Murphy | Покушение на президента | Красный
+Jeffrey Saint | Мат,дерзость в сторону през. | Красный
+Alex Lavetsky | Подделка апелляции | Красный
+Mike Sattora | Кража ТС | зеленый
+Fabio Torrontino | Флуд,мат,оск
+Lidan Jonas | заблачен | Зеленый
+Artyom Bobrov | Жесткий флуд | Красный
+Dendie Unitos | Покушение на Президента | Красный
+Mark Frast | Обман Президента | Красный
+Dmitry Satan | Оск.Президента | Красный
+Freddy Kruger | Блат | Черный
+Fernando Kruger | Блат | Черный
+Rasko Kruger | Блаченый | Зеленый
+Daniel Lewis | Ловля дома по гос.цене | Черный
+Miguel Cross | Ловля Бизнеса по гос.цене | Черный
+Sweet Jonson | Ловля Бизнеса по гос.цене | Черный
+Berl Lazar | Ловля АЗС по гос. цене | Черный
+Ricardo Westwood | Блат | Черный
+Brain Westwood | Блаченый | Зеленый
+Andy Cruze | Жестокий блат.. | Черный
+Adam Howard | Массовое увольнение без IC причины | Черный
+Tony Reventon | Обман мэра в отчете | Красный
+Dominik Fierro | Слив домов | Черный
+Sasha Skaletta | Слив домов | Черныкюй
+Akiro Katzo | Продажа ранга | Черный
+Nicholas Rice | Блаченый | Зеленый
+Taylor Brown | Ловля бизнеса по гос. цене | Черный
+Jack Woody | Обман мэра и президента | Черный
+Dima Gordeev | Ловля домов по гос. цене | Черный
+Voloda Bufan | Блат | Черный
+Vladislav Attwood | Обман мэра в отчете | Красный
+Antonio Attwood | Обман мэра в отчете | Красный
+Jayson Winston | Оскорбление Вице-Президента. | Красный
+Shon Greenp | Оскорбление Президента | Красный
+Don Korleone | Ловля домов |Черный
+Dwayne Mendez | Продажа рангов на Лидерстве. | Черный
+Pablo Ali | Посылание Президента, оск. | Красный
+Serikov Dilmurat | Оск. Президента. | Красный
+Vito Loyatti | Слив домов, бизнесов | Черный
+Rogue Tokugawa | Слив домов, бизнесов | Черный
+Samuel Ruan | Обман мэра. | Красный
+Jamper Rafa | Обман Мэра. | Красный
+Ricardo Morato | Обман Мэра. | Красный
+Daddy McWayne | Обман Мэра. | Красный
+Sebastian Cooper | Слив домов | Красный
+Johnny Vice | Слив домов | Черный
+David Vendetta | обман мэра | Красный
+Mattew McCullen | обман мэра | Красный
+Arthur Lunacharsky | Неадекват (оскорбление родных в /f чат) | Черный
+Antonio Calvi | Блаченный | Зеленый
+Denis Morozov | Ловля бизнеса по гос. цене | Черный
+Leonardo Carrington | Угрозы в адрес Президента, оскорбление, не соблюдение субординации, неадекватный. | Красный
+Dragon Fever | Массовое увольнение сотрудников | Черный
+Dastin Swift | Массовое увольнение сотрудников | Черный
+Kesha Devil | Многократное оск Президента | Красный
+Ilya Balakin | Оск президента. | Красный
+Walter Jaсkson | Ловля дома по госу. | Черный
+Vladislav Laitov | Неоднократное оск. Президента в /f. | Красный
+Angelo Torentino | Оскорбление Президента. Неадекватность. | Красный
+Elvin Amirov | Оскорбление Президента. Неадекватность. | Красный
+Lee Honda | Обман Президента. | Красный
+Vito Reed | Оскорбление Президента. Неадекват. | Красный
+Romka Bandit | Оскорбление Президента, неадекватное поведение. | Красный
+Mark Froste | Неадекват в /f. Массовое оскорбление. | Красный
+Ivan Skorohod | Взятие транспорта,ловля домов. | Красный
+Nikolai Watson | Оскорбления президента,неадекват. | Красный
+Artem Berkut | Оскорбление Президента. | Красный
+David Feed | Неадекват. Оскорбление сотрудников и Президента. | Красный
+Ricardo Escalante | Оскорбление Президента. | Красный
+Mukola Yaremeychuk | Слив домов. | Красный
+Alik Ramirez | Обман мэра. | Красный
+Soul Maddyson | Ловля домов. | Черный
+Franchesco Watson | Слив бизнесов. |Черный
+Walter Wayat | Оск. сотрудников. | Оранжевый
+Monte Show | Неадекватное поведение, ДМ сотрудников МВД. | Красный
+John Hopkins | Обман Старшего состава Правительства. | Красный
+Djonaton Toretto | Подделка подписи Президента в теме Апелляции. x2 | Красный
+Bruno Tessort | Обман Президента при переводе. | Красный
+John Tessort | Обман Президента при переводе. | Красный
+Dmitriy Belka | Подделка отчета. | Красный
+Maks Fix | Обман Президента при переводе на Советника, удаление заявления о переводе. |Красный
+Matthew Rodrigez | Жалоба на портале штата. | Зеленый
+James Frost | Ловля бизнеса по гос. цене, прогул рабочего дня. | Черный
+Domenico Alonso | Оскорбление Президента, прогул рабочего дня. | Красный
+Tom Hard | Обман при переводе на Советника. | Красный
+Alessandro Cavalli | Жалоба на сотрудников Правительства. | Зеленый
+Diego Carerra | Блаченый | Зеленый
+Justin Price | Обман Ст. Состава. | Красный
+Sergio West | Блаченый | Зеленый
+Egor Pigal | Блаченый | Зеленый
+Daniel Belka | Блат | Черный
+Corso Capella | Жалоба на сотрудников правительства. | Зеленый
+Nika Senet | Оск.Мэра | Красный
+Alex Veles | Оск.Мэра | Красный
+Steven Burello | Реклама | Красный
+Dendi Pirs | Блат |Черный
+Hov Baron | Жесткий оск президента | Красный
+Freedom Wright | Оск мэра | Красный
+Ivan Nigas | Оск мэра | Красный
+Shane Webstor | Оск.президнета | Красный
+Salvadore Falcone | Оск | Красный
+Dwayne Santi/Evan Coffee | Обман | Красный
+Frank Woods | TK | Красный
+Rudy Delofram | Пропаганда/клевета | Красный
+Ashton Carter | Невыполнение приказов | Оранжевый
+Travis Bickle | ДМ | Оранжевый
+Tiko Bordon | Оск | Красный
+Miki McLock | Слив состава | Черный
+Rocky Macwizard | ДМ | Оранжевый
+Oliver Smith | Оск | Красный
+Сhief Warren | Блачен | Зеленый
+Сarlo Biceps | Клевета | Красный
+Evan Pirs | Клевета | Красный
+Lionel Masseti | Обман Президента | Красный
+Artur Fonseka | Flood + OSK | Красный
+Giuuseppe Giordano | Оск Президента | Красный
+Dmitriy Stark | Оск,клевета | Красный
+Miguel Stafford | Обман | Красный
+Steve Hocking | TK/Неоднократное покушение на Президента | Черный
+Kinder Delice | Массовый лив | Черный
+Clauce Delice | Блаченый | Зеленый
+Kostya Frost | Обман мэра | Красный
+Wadim Smoliar | Неадекват | Красный
+Dave Linden | Неадекват. | Красный
+Angelica Warren | Неадекватка | Красный
+Robert Wart | Неадекватное поведение | Код: Зеленый
+Tayzle Virsetti | Оскорбление Мэра | Код: Красный
+Yegor Antonov | Оскорбление | Код: Красный
+Kevin Silvia | Флуд в /r | Код: Зеленый
+Niki Peyton | Нарушение устава | Код: Зеленый
+Carlo Jonas | Оскорбление Мэра | Код: Красный
+Sergey Zaharov | Стрельба в Мэрии | Код: Зеленый
+Mark Underwood | Оскорбление лидера | Код: Красный
+James Osborne | Оскорбление Мэра | Код: Красный
+Alvaro Dominquez | ТК, кража амуниции, прогул рабочего дня | Код: Красный
+Costa Williams | ДМ | Код: Зеленый
+Daniil Bakin | ДМ | Код: Зеленый
+Vasily Melnikov | Массовый ДМ | Код: Оранжевый
+Gandalf White | Флуд в /r | Код: Зеленый
+Devid Westwood | Оскорбление Президента | Код: Красный
+Padro Felix | Оскорбление Мэра | Код: Оранжевый
+Nicholas Bryant | Оскорбление Мэра | Код: Красный
+Sam Stuart | Флуд и не оплата неустойки | Код: Красный
+Joni Hayes | Флуд в /r, неадекват | Код: Красный
+Kesha Wordon | Флуд в /r, неадекват | Код: Красный
+Zakhar Slipchenko | Массовый ДМ гражданских | Код: Оранжевый
+Benjen Stark | Флуд в /f | Код: Зеленый
+Hokage Honda | ТК | Код: Оранжевый
+Jesus Cahill | ТК неоднократно | Код: Красный
+Djo Starks | Флуд, оск. | Код: Оранжевый
+Saruman Belij | Оск. | Код: Зеленый
+Aiden Evil | Подделка отчёта | Код: Красный
+John Nayson | Флуд | Код: Зеленый
+Obey Vendetta | TK | Код: Оранжевый
+Maks Xenon | Нарушение УК, помеха МВД | Код: Зеленый
+Giuseppe Ricci | Стрельба по гражданским | Код: Оранжевый
+Oliver Wart | Угон авто. | Код: Зеленый
+Leonardo Garcia | DM, нарушение устава | Код: Оранжевый
+Jacket Jason | TK | Код: Оранжевый
+Hana Kishiguchi | Угон авто. | Зеленый
+Jacob Douglas | Угон вертолета | Зеленый
+Looney Welario | Флуд в /f | Зеленый
+Donald Francis | ТК | Оранжевый
+Kosty Karas | Флуд в /f | Зеленый
+Dasquale Costa | Угон авто | Зеленый
+Riko Origi | Покушение на Мэра | Красный
+Alexandr Sifonovich | ДМ, разграбление склада ВВС помощь бандам | Красный
+Sifon Alexandrovich | ДМ, разграбление склада ВВС помощь бандам | Красный
+Alexandr Selckirk | Оск. Президента | Красный
+Nikolay Rusov | Оск.Президента | Красный
+Martin Torres | Флуд в /f | Зеленый
+Black Dragon | Упом.родных | Красный
+Vladislav Torpeda | Оск.президента | Красный
+Yakyma Yamomoto | Флуд в /f | Зеленый
+Nikolay Bukaniov | Оск.Президента | Красный
+Rizzen Rayson | ДМ МО/нарушенеи устава | Красный
+Ray Rayson | ДМ МО/нарушенеи устава | Красный
+Stive Jefferson | Оск.Президента | Красный
+Raf Cruse | ТК | Красный
+Rusello Robinson | Флуд в /r | Зеленый
+Shapik Morello | Флуд в /f | Оранжевый
+Mark Present | Оск.Вице-президента | Красный
+Zahar Mihailov | Флуд в /r | Зеленый
+Luigi Agata | ДМ | Красный
+Luis Fitzsimon | Флуд в /r, маты | Зеленый
+Borik Montana | Флуд в /f | Зеленый
+Ernesto Bratberry | Оск.Президента | Красный
+Aleksandr Zaretskov | ТК | Красный
+Pavel Dmitrijev | Нападение на Президента | Красный
+Bob Mihaluch | Флуд в /f | Оранжевый
+Bartt Simpson | ДМ | Красный
+Thomas Madson | Нападение на Президента | Красный
+Bob Lachetti | Оск.Президента | Красный
+Feliks Walker | Обман Президента/Блаченный/Подделака перевода | Черный
+Otto Mens | Флуд в /r | Оранжевый
+Johnny Dixon | Флуд в /f | Оранжевый
+Dmitriy Nekrasov | Флуд в /r | Зеленый
+Malvin Fibanachi | TK | Красный
+Tomas Nilson | Оск.Мэра| Красный
+Antoni Guerra | Флуд в /r | Оранжевый
+Mark Hard | ДМ, нарушение устава| Оранжевый
+Kirill Panevin | Флуд в /r | Оранжевый
+Takashi Sudsuki | Инсценировка похищения | Красный
+Dario Visconti | Покушение на Вице-президента | Красный
+Roberto Menino | Подделка документов(отпуск) | Красный
+Kenneth Thompson | Ловля домов | Черный
+Denis Homut | ДМ в Мэрии | Красный
+Artur Asala | ДМ в Мэрии | Красный
+Maksim Sobolev | ДМ в Мэрии | Красный
+Tobby Sweet | ТК | Красный
+Fadio Solmos | ТК | Красный
+Maksim Burmistrov | Флуд в /f капсом | Красный
+Ugo Casey | ДМ/ТК, покушение на президента | Черный
+Marcus Jonas | Угон авто / нападение на Президента | Красный
+Donstar Hard | ТК/Оск. | Красный
+Stefano Conti | Оск | Оранжевый
+Anya Twist | Флуд в /r,f | Оранжевый
+Luigi Corradini | Флуд в /r | Оранжевый
+Ray Williams | Оск.Мэра | Красный
+Leo Makareli | ТК | Красный
+Henry Nelson | Оск.Мэра | Красный
+Jon Delgado | ТК | Красный
+Winston Neyli | Флуд в /r | Оранжевый
+Aleksey Channel | Флуд в /f, неадекват | Красный
+Benjamin Kingsman | Оск.Мэра | Красный
+Treor Mantio | Оск.Президента | Красный
+Roberto Adamson | Нарушение устава, ДМ | Красный
+Carl Garden | ТК | Красный
+Richard Flynn | Подделка документов | Красный
+Shark McCoy | Подделка документов | Красный
+David Parker | Подделка документов | Красный
+Sky Santa | Флуд в /r /f | Красный
+Travis Conners | Флуд в /f /r МГ, оскорбление Президента и всего Правительства | Черный
+Alberto Carsetti | Оск.Президента | Красный
+Scott Caon | ДМ | Красный
+Maxim Neklesa | Оск.Мэра | Красный
+Ben Rossentall William Rossentall | Ловля домов/ДМ/Оск | Черный
+Danik Elite | Флуд в рацию, неадекват | Красный
+Alex Fisher | ТК | Красный
+Mickey Bad | Обман/Подделка документов | Красный
+Rodrigo Grace | Флуд в /f | Оранжевый
+Tommy Jonas | Покушение на Президента, жесткий ДМ | Черный
+Alex Fisher | Покушение на Президента, жесткий ДМ, ТК | Черный
+Teodoro Ricci | Оск мэра | красный
+Brain Rodrigez | DM | Зеленый
+Salvatore Berti | Прогул раб.дня | Заленый
+Anthony Westbrook | TK | Красный
+Taher Kazina | Уход псж с 1 ранга | Зеленый
+Rodrigo Paulino | ТК | Красный
+Mark Londov | флуд | Зеленый
+Devin Dark | flood | Зеленый
+Jack Nostra | Блаченый | Зеленый
+Barry Weis | Блаченый |Зеленый
+Christopher Cabare | Лив после зп | Зеленый
+Keith Deverside | Лив после зп | Зелелный
+Ricardo Gold | TK | Красный
+Siena Dio | Лив после зп | Зеленый
+Pavel Suvorov | Дм президента | Оранжевый
+Oliver Benito | Dm президента | Оранжевый
+Leonardo Blackmore | Оск стр. | Оранжевый
+Alessandro Santini | ДМ | Оранж
+Glaxy Santa | DM | Оранж
+Soft Comedoz | Дм | Оранж
+Nekit Vlasov | ДМ | Оранж
+Dmitriy Scofield | Оск | красный
+Nik Benrlitom | Лив после зп | Зеленый
+Rolf Adler | ДМ | оранжевый
+Nik Weder | Flood | зеленый
+Don Vincent | DM | Оранж
+Ricci Saint | DM | Оранж
+Romario Gonzalez | osk | Красный
+Vitalya Don | DM | Оранж
+Maskim Etsyk | Кража оружия | Зеленый
+Nicholas Wilson | Тк, прогул, кража оружия | Красный
+Miran Apozan | Flood | Зеленый
+Nikita Sobolev | Flood | Зеленый
+Roki Fail | ТК+ДМ | Красный
+Sergey Lomov | Лив после зп | Зеленый
+Eduardo Perfece | лив после инва | Зеленый
+Robert Caldwill | лив после инва | Зеленый
+Miron Caldwell | лив после инва | Зеленый
+Pip Kinza | дм | оранж
+James Scorsese | дм,нарушение пдд | оранж
+Chief Lunar | дм | оранж
+Alexey Fosters | Оск,неадекватство,мг | Красный
+Martinez White | лив после инва | зеленый
+Adolf Brago | оск сотрудников, дм зз | Красный
+Jack Jackman | Дм зз | Оранж
+Fabio Beluchy | дм зз | оранж
+Denis Grunin | ДБ | Оранжевый
+Mark Sazhin | Оск | Красный
+Wholter Black | Ловля дома | Черный
+Neal Delorean | Блаченый | Зеленый
+Noel Johnson | Блат | Черный
+Alex Price | оск род | Черный
+Jason Benito | подделка,обман мэра | Красный
+Raider Reed | Оск | Красный
+Zhora Sirotov | лив после зп | зеленый
+Aleksandr Odessky | лив после зп | Зеленый
+Jonathan Sanders | флуд,рынок | оранж
+Vasya Bezrukov | лив после зп | зеленый
+Tomas Reiner | дм | оранж
+Jeffery Reiner | дм | оранж
+Sergey Oborin | неадекват, флуд | оранж
+Makar Zakaev | угон т/с,дб | оранж
+Snake Asala | подделка отчетов | красный
+Cody Jonsee | Нанесение вреда сотрудников | красный
+Mikx Mirrow | Покушение на президента | красный
+Bruno Bugatti | Оскорбления | оранжевый
+Antonio Blanco | неадекват | оранжевый
+Andrey Priazovsky | Флуд в /f | оранжевый
+Dieggo Williams | Оск. президента | красный.
+Jake West | многократная кража оружия | зеленый.
+Kirill Kirianov | Неадекват | оранжевый.
+David Chester | Вход в кабинет президента без спроса | зеленый.
+Jeffrey York | Оск.род, неадекват | красный.
+Lonely Dragons | флуд в /r | оранжевый.
+Allex Belka | оск.зам.мэра | оранжевый.
+Henrique Baressi | флуд в /f | оранжевый.
+Fedarico Mori | Покушение на президента | красный.
+Egor Sallo | Вход в кабинет президента без спроса | зеленый.
+Vladimir Abramov | Вход в кабинет президента без спроса | зеленый.
+Katya Stigmata | оск президента | красный.
+Egor Levin | флуд в /r | оранжевый.
+John Makeev | неадекват | оранжевый.
+Stefano Hemsworth | Ловля дома через риелторку | черный.
+Cracker Channel | неадекват | оранжевый.
+Iggy Hemsworth | флуд в /r | оранжевый.
+Russo Macheto | оскорбление | оранжевый.
+Andrea Codutti | флуд в /r | оранжевый.
+Alex Alexer | Вход в кабинет президента без спроса | зеленый.
+Jerry Maddyson | оск.президента | красный.
+Joseph Larin | флуд в /f и оск.| красный.
+Pasha Morre | флуд в /f и оск | красный.
+Ruslan Bagrov | массовый ДМ | красный.
+Eduard Kosyan | Нанесение вреда президенту | красный.
+Jon Lee | оск.премьер-министра | красный.
+Jonathan Ward | нанесение вреда президенту | красный.
+Tamerlan Espozito | массовой ДМ | красный.
+Roman Shugaev | массовой ДМ | красный.
+Taras Smith | флуд в /r | оранжевый.
+Oscar Mendero | неадекват | красный.
+Steve Elington | ТК и ДМ | красный.
+Skiffz Eisenderg | Оск.президента | зеленый.
+Marco Verderber | Вход в кабинет президента без спроса | зеленый.
+Johny Richmond | обман президента | красный.
+Max Kosmos | флуд в /r | оранжевый
+Leo Scarpo | Попытка покупки ранга | красный.
+Mario Clifford | ДМ и ТК | красный.
+Jeremy Fiorentino | Оск и неадекват | красный.
+Jason Walter | оск | красный.
+Yoshi Katsymi | ДМ и ТК | красный.
+Adamka Oddies | оск | красный.
+Igor Morozov | ТК | оранжевый.
+Lucas Moura | ТК и ДМ | красный.
+Robert Parks | ДМ и оск | красный.
+Makar Jhonson | Ловля домов по гос. | красный.
+Miguel Veneno | ТК | красный.
+Tommy Walsh | Обман президента | красный.
+Fred Freeman | Обман президента | красный.
+Diman Kowalev | Обман президента | красный.
+Brian Dee | Флуд в /f | красный.
+Yung Meep | Вход в кабинет президента без спроса | зеленый.
+Maks Reznov | Вход в кабинет президента без спроса | зеленый.
+Vitaliy Rodriguez | Флуд в /f и /r | оранжевый.
+Luigi Bellucci | Флуд в /f и /r | оранжевый.
+Christopher Everson | Флуд в /f и /r | оранжевый.
+Vladok Fedotov | Флуд в /r | оранжевый.
+Carlos Wayne | Нанесение вреда президенту | красный.
+Sam Alien | Cлив акка, Флуд| Красный
+Davide Grasso | подделка заявки, обман президента| Черный
+Asap_McLaren |Обман президента | Красный
+Sebastian McLaren | Обман президента| Красный
+Maxim Shevtov | ДМ | Красный
+Mason Weed|Флуд в /f | Оранжевый
+Многократный флуд |Флуд в /r | Оранжевый
+Oliver Robertson | ТК | Красный
+Ozzy Mark |Неуплата неустойки, флуд | красный
+Stas Sorokin | ТК , напал на президента| красный
+Don Black | ДМ | Оранжевый
+Johne Smit | Кач скиллов в АП | Оранжевый
+Evgenei Lilikov |Флуд в /r | Оранжевый
+Sacha Kalinin| Флуд в /r | Оранжевый
+Andrew Larkins |CК | Оранж
+Gucci Italiano | ловля домов| красный
+Mihel Pelagetti | ловля домов| красный
+Evgenii Blackberry | Ловля домов| красный
+Steven Lombardi | Дм, оск, нонрп|красный
+Andrew Larkins | DM| красный
+Don Black |DM | Красный
+Vitalik Kerbal |Флуд в /r | Оранжевый
+Ottone Grava | Мат в /f | Красный
+Mickey Singleton | Оск| Красный
+Ethan Kennedy | Бред в рацию, флуд|Оранжеый
+Goro Yasimoto | обман президента | Черный
+Haradoki Yasimoto |обман президента| Черный
+Daniel Banks | неадекват| красный
+Christian Richardson | увал без устойки|оранжевый
+Uyeda Sinna | неадекват| Красный
+Cesare Morente | неадекват, флуд| Красный
+Den Campton | ужасный флуд в /f | Красненький
+Federico Tawers | Подделка документов|Красный
+New Lee | Подделка документов| Красный
+Kevin Soprano | Подделка документов| Красный
+Adam Wells | увал без неустоуки с ССБ флуд| Зелёный
+Robin Evans |увал без неустоуки с ССБ флуд| Зеленый
+Mixail Aleynikov | увал с ССБ, флуд| Зеленый
+Miguel Walker | Обман президента| Красный
+Raidon Saki | кража оружия| Зелёный
+Theodore Rodriguez | Выселение домов без ведома старших | красный
+Arzu Rustamli | Игра в казино| Оранжевый
+Klaudio Markizio | Подделка документов| Красный
+Diego Bailey |Флуд в /f | Оранжевый
+Mich Darko | флуд в /r | Зеленый
+Djoni Bruno | Розжиг | Красный
+Ippolito Borrelli | Неадекват| Красный
+Thomass Campbell | Маты в /f | оранжевый
+Dimon Smolov | МГ, мат в /f | Оранжевый
+Dmitriy Hill | ТК| Оранжевый
+Sergey Pepp | увал без неустоки, флуд в /r | Зеленый
+Soup Maktavish | Флуд в /f | Оранжевый
+Oleg Pavlov | суд| оранжевый
+Rustam Mandatov | суд| оранжевый
+Dmitriy Hill | суд | Оранжевый
+Nicholas Thompson | cуд| оранжевый
+Petrov Barisovich | cуд| оранжевый
+Antonio Belucci | суд| оранжевый
+Valencia Arriano | подделка документов| крсаный
+Timur Volnov | оск лидера| Красный
+Nicholas Thompson |флуд в /r | оранжевый
+Beqa Gelashvili | подделка документов| Красный
+Yuta Yamada | неадекватство| Зеленый
+Markus Shonnan | ЧС| Зеленый
+Thon Tesla | Cуд | красный код.
+Lake Kristiyans | Неадекватство| Красный
+James Moren / Неадекват, флуд / Красный
+Martin Arutyunyan | Cуд | Зеленый
+Merujan Mgdesan| Cуд | Зеленый
+Gabriel Materazzi | Cуд | Зеленый
+Red Devil | Cуд| Оранжевый
+Lake Kristiyans | Суд| Оранжевый
+Kisame Kudo | суд| Оранжевый
+Wave Rocky | cуд| Оранжевый
+Jor Simonyan | Подделка документов| Оранжевый
+Maxim Fellini / неадекват / Оранжевый
+Rustam Madatov | Флуд| Зеленый
+Benjamin Hall | флуд| оранжевый
+Rodrigo Mackenzie | Обман Президента| Красный
+Dimas Kovalchuk | казино в раб. время| Красный
+Akena Suzuki | красный| обман президента подделка документов
+Alan Belis | масс дм| красный
+Black Masons | тк | красный
+Sasha Abramenko | увал с ссб ,флуд| оранж
+Niko Darks | увал с ссб флуд| оранж
+James Wesley | увал с ссб , флуд| оранжевый
+Tommy Rodgers | увал с ссб флуд| оранжевый [/B][/B][/B]
+Jackob Walker | флуд в /r | оранж
+Maksum Fedorchuk | Флуд /r | оранжевый
+Roman White | Оскорбление Президента | Красный
+Alex Zotov | Оскорбление Вице-Президента | красный
+Danya Skips | Отказ выплаты неустойки | Зеленый
+Andrew Dyatlov | Отказ выплаты неустойки | зеленый
+Thomas Canon | Отказ выплаты неустойки | Зеленый
+Sasha Golubkov | Отказ выплаты неустойки | Зеленый
+Andrey Bledniy | отказ выплаты неустойки | Зеленый
+Rodrigo Veronio | ловля домов | Черный
+Brian Fever | подделка документов | красный код
+Diego Morrison | отказ выплаты неустойки | Зеленый
+Bruno Sovell | отказ выплаты неустойки | Зеленый
+Jhon Deagle | отказ выплаты неустойки | зеленый
+Akari Ishida | отказ выплаты неустойки | Зеленый
+Nar Melkonyan | Кража ТС | Зеленый
+Nick Gordon | оск /f | Зеленый
+John Fever | Подделка документов | Красный код
+Jake Nelson | Оск.Мэра | Красный
+Mark Chesterfield | Покушение на Президента | Черный
+Bruno Jordan | Подделка документов | Красный
+Tomme Ferdizo | Отказ выплаты неустойки | Зеленый
+Jay Fud l Слив информации о выселении должников l Черный
+Roman Kasatkin l Покушение на Президента l Красный
+Mario_Martini l Неустойка l Зеленый.
+Matthew_Warington l Неустойка l Зеленый.
+John McCarthny l Подделка документов в отчете l Красный
+Andrey Fascait l TK l Красный
+Ymato Garushi l Flood l Оранжевый
+Mario Rarnos l TK l Красный
+Billy Miller l Оскорбление l Оранжевый
+Matthew Flatcher l Покушение на мэра l Красный
+Tony Camper l Покушение на мэра l Красный
+Vladislav_Samarin l TK l Красный
+Poi Lon l Неустойка l Зеленый
+Jacob Villams l Кража ТС l Зеленый
+Ymato Garushi l Flood l Orange
+Andrey Fascait l TK l Red
+Michael Carleone l DM l Red
+Qzzy Mark l Неустойка l Green
+Dylan Ramirez l Orange
+Franco_Pasquale l Неустойка l Green
+Scrooge McDuck | Блат | Черный
+Logan Castro | Оск. Мэра | Красный
+Rafaell Norinkton | Orange
+Anton Block | Orange
+Adam Karelli | Orange
+James_Holland | Orange
+Dmitry_Barsov | Orange
+Caesar_Winston | Orange
+Egor_Partin l Red
+Marco_Homeles l Red
+Jor Cilent | Orange
+Denis Pushkarev | Orange
+Matthew_McGee | Orange
+Gleb Baron | Orange
+Mixail Aleynikov | Orange
+Than Li | Orange
+Pablo Espositos
+Nick Junes. | Orange
+Ryan Mod | Orange
+Karl Timbil | Orange
+Ricardo Conte | Orange
+Milton Foster | Orange
+Samuel_Belis | Orange
+Stac Boreckiy | Orange
+Genry_Neal | Orange
+Abner Logan| Orange
+Manuel_Leichar | Orange
+Kevin_McCurly | Orange
+Than_Li | Orange
+Lucas Ferasso | Orange
+Nox Fernandez | Orange
+Matt Minjagas| Orange
+Elnur Nekrasov | Orange
+Santi_Danieli | Orange
+Jake Baker| Orange
+Jayka Tregano | Orange
+Jacob Undeato | Блат | Черный
+Alberto Gallo | Зеленый
+Vicento Benito |ДМ | Оранжевый
+Artur Smith | ДМ | Оранжевый
+Giuseppe Tedesco | Обман | Оранжевый.
+Neo Authority | Неустойка | Зеленый
+Lucas Scaletta | Неустойка | Зеленый
+Asap Klaus | ТК | Красный
+Lorenzo Merzo | Неустойка | Зеленый
+Alan Lon | ТК | Красный код
+Riccardo Mortello | Маты | Оранжевый
+Waka Long | Оскорбление | Оранжевый
+Andrea Morphine | Обман Президента | Красный
+Rick Williams | Неустойка | Зеленый
+Marcello Conte | Нарушение устава | Зеленый
+Sio Roberto | Обман, подделка документов | Красный
+Michael Esperrero | Нарушение устава | Зеленый
+Leo Magnitar | Неадекватное поведение | Зеленый
+Rostislav Sidorov | Неадекватное поведение | Оранжевый
+Lester Gillis | Неустойка | Зеленый
+Nate Rewrite | Неадекватное поведение | Оранжевый
+Dima Zadasaz | Неустойка | Зеленый
+Kobe Andriano | Неустойка | Зеленый
+Jeyson Everent | Неустойка | Зеленый
+Harold Twenk | Нарушение устава | Зеленый
+Denis Azoev | Неустойка | Зеленый
+Aspa Tesla | Оскорбление Президента, Блаченый | Чёрный
+Waka Qules | Оскорбление Президента | Красный
+Martian Lorenze | Покушение на Мэра | Чёрный
+Diego Coleman | Неустойка | Зеленый
+Artem Borsh | Покушение на Президента | Красный
+Kevin DeBruyne | Нарушение устава | Оранжевый
+Antonio McNaize | Нарушение устава | Зеленый
+Daniel DeSanta | Покушение на Президента | Чёрный
+Rudolf Cartel | Покушение на Президента, неадекват | Чёрный
+Misha Levin | Неустойка | Зеленый
+Mike Reiss | Флуд в /f | Оранжевый
+Tommy Armstrong | Игра в казино в раб время | Зеленый
+Antonio Bolotelli | Неустойка | Зеленый
+Xavier Sparkle | ДМ in ЗЗ, ТК | Черный
+Mark Haus | ТК | Красный
+Maksim Lyubko | Обман | Оранжевый
+Ozzy Hawler | Оскорбление президента | Красный
+Jonson Green | Флуд в /r | Зеленый
+Eagami Lite | Оскорбление Президента | Красный
+Volk Black | Покушение на Президента и ТК | Черный
+Eygene Fernande | Флуд в рацию | Зеленый
+Carl Bruddy | Грубое нарушение устава | Красный
+Jordan DeSanta | Кража отчёта | Красный
+Eminem Vilance | Нарушение устава и оскорбление сотрудников | Красный
+Alisha Fiorentino | Нарушение устава | Зеленый
+James Moretti | Нарушение устава | Зеленый
+Rian Moretti | Нарушение устава | Зеленый
+Azazel Brugsborn | Оскорбление | Оранжевый
+Ozzy Alpachino | Оскорбление | Оранжевый
+Linda Rof | Нарушение устава | Оранжевый
+Tofik Tesla | Нарушение устава | Оранжевый
+Miguel Lugas | Нарушение устава | Зеленый
+Scandal Desp | Нарушение устава | Оранжевый
+Jerry Baritono | Оскорбление | Оранжевый
+Jerax Johnson | Нарушение устава | Оранжевый
+Sasha Vergesims | Нарушение устава | Зеленый
+Vyacheslav Shestov | Оскорбление Президента, неадекватное поведение. | Красный
+Emmy Cash | Покушение на Президента | Красный
+Roberto Rossante | Реформа 61 | Черный
+Valentin King | Неустойка | Зеленый
+Adriano Cooper | Оскорбление Президента | Красный
+Frank Buckley | Неустойка | Зеленый
+Scott Douglas | Оскорбление и нарушение устава | Красный
+Luichi Orlando | Покушение на Президента | Красный
+Harry Ollz | Покушение на Президента | Красный
+Kurt Wayne | Оскорбление Президента | Красный
+Muzio Authority | Неадекват | Оранжевый
+Rodrigo Wilson | Оскорбление высших лиц | Красный
+Oscar McFarland | ТК, ДМ, Оск | Красный
+Messer Jones | ДМ | Оранжевый
+Miki Volner | Флуд в /r |Зеленый
+Himoto Yuu | Неустойка | Зеленый
+Antonio Morales | Флуд в /f | Оранжевый
+Idja Aguerro | Неадекват, нарушение устава | Красный
+Royal Ryan | Неустойка | Зеленый
+Andy Alvarez | Флуд в /r | Зеленый
+Ricardo Tores | ДМ + ТК | Черный
+Oliver Brazzers | Оскорбление Гос.структуры| Оранжевый
+Mario Stark | Нарушение устава | Оранжевый
+Sasha Byinovskii | Нарушение устава | Оранжевый
+Daniil Levinskiy | Нарушение устава | Оранжевый
+Devil Merser | Нарушение устава | Оранжевый
+Alexandr Korvin | Блат | Черный
+Idja Aguerro | отказ выплаты неустойки | Зеленый
+Ray Marquez | отказ выплаты неустойки | Зеленый
+Manami Orito | отказ выплаты неустойки | Зеленый
+Firnando Actavio | отказ выплаты неустойки | Зеленый
+Adam Shift | отказ выплаты неустойки | Зеленый
+Shane McCurly | отказ выплаты неустойки | Зеленый
+Miguel Lugas | Оскорбления | оранжевый
+John Barton | отказ выплаты неустойки | Зеленый
+Viktor Walkir | отказ выплаты неустойки | Зеленый
+Bruno Roncon | отказ выплаты неустойки | Зеленый
+Alessandro Pirlo | отказ выплаты неустойки | Зеленый
+Mike Careno | Оскорбления | оранжевый
+Panda Lee | отказ выплаты неустойки | Зеленый
+Benjamin Nevill | Игра в казино в раб.время | Красный
+Dan Goss | Игра в казино в раб.время | Красный
+Vito Grance | Игра в казино в раб.время | Красный
+Konstantin Ibraimov | Игра в казино в раб.время | Красный
+Danny Harmon | Игра в казино в раб.время | Красный
+Mike Bartolomeo | отказ выплаты неустойки | Зеленый
+Goro Kudo | отказ выплаты неустойки | Зеленый
+Christopher Liviano | Игра в казино в раб.время | Красный
+Joni Jonsi | отказ выплаты неустойки | Зеленый
+Vlad Krasnov | Флуд в рацию | Зеленый
+Vito Dib | отказ выплаты неустойки | Зеленый
+Jack Wizard | Флуд в рацию | Зеленый
+Marco Rubin | отказ выплаты неустойки | Зеленый
+Misha Knyazev | Игра в казино в раб.время | Красный
+Alvaro Decoy | Отказ выплаты неустойки/оск | Красный
+Nicollas Cage | ТК | Красный
